@@ -60,6 +60,8 @@ public class CheckoutPage extends AbstractComponent{
 		System.out.println("horlicks");
 		System.out.println("Boost");
 		
+		System.out.println("election");
+		
 		
 		
 		return new ConfirmationPage(driver);

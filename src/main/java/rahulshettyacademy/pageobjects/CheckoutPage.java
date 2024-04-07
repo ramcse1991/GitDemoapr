@@ -10,6 +10,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
+import io.opentelemetry.exporter.logging.SystemOutLogRecordExporter;
 import rahulshettyacademy.AbstractComponents.AbstractComponent;
 
 public class CheckoutPage extends AbstractComponent{
@@ -55,6 +56,7 @@ public class CheckoutPage extends AbstractComponent{
 	{
 		
 		submit.click();
+		System.out.println("GIT");
 		
 		return new ConfirmationPage(driver);
 	}

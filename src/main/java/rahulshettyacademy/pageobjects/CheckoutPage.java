@@ -56,7 +56,11 @@ public class CheckoutPage extends AbstractComponent{
 	{
 		
 		submit.click();
+
+		System.out.println("GIT");
+
 		System.out.println("git");
+
 		System.out.println("horlicks");
 		System.out.println("Boost");
 		
@@ -64,6 +68,7 @@ public class CheckoutPage extends AbstractComponent{
 		System.out.println("ghf");
 		
 		
+
 		
 		return new ConfirmationPage(driver);
 	}

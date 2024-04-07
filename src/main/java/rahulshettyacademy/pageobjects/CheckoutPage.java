@@ -61,6 +61,7 @@ public class CheckoutPage extends AbstractComponent{
 		System.out.println("Boost");
 		
 		System.out.println("election");
+		System.out.println("ghf");
 		
 		
 		

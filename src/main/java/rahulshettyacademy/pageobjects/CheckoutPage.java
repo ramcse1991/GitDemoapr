@@ -67,6 +67,7 @@ public class CheckoutPage extends AbstractComponent{
 		System.out.println("election");
 		System.out.println("ghf");
 		System.out.println("TN Election");
+		System.out.println("TN Election 5");
 		
 		
 

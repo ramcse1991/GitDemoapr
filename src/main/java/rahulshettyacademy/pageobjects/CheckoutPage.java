@@ -60,7 +60,13 @@ public class CheckoutPage extends AbstractComponent{
 		System.out.println("GIT");
 
 		System.out.println("git");
+<<<<<<< HEAD
 
+=======
+		System.out.println("horlicks");
+		
+		
+>>>>>>> 76f20ba4d739bc823f9408d29dff481184875aab
 		
 		return new ConfirmationPage(driver);
 	}

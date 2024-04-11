@@ -72,6 +72,7 @@ public class CheckoutPage extends AbstractComponent{
 		System.out.println("intelligent Ram");
 		System.out.println("RAMZAN 2024");
 		System.out.println("develop branch");
+		System.out.println("america");
 		
 
 		

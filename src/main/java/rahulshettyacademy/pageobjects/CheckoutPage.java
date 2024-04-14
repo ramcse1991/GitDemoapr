@@ -74,6 +74,7 @@ public class CheckoutPage extends AbstractComponent{
 		System.out.println("develop branch");
 		System.out.println("america");
 		System.out.println("APR 14");
+		System.out.println("new year");
 		
 		
 
